@@ -1,0 +1,14 @@
+inputs:
+  cell1_local_g: 
+    type: REAL
+  cell2_path_g: REAL
+
+outputs:
+  cell2_g_out: REAL
+locations:
+  idle:
+    invariant: 'true'
+    update:
+      cell2_g_out: cell2_path_g - cell1_local_g
+initialisation:
+  state: idle

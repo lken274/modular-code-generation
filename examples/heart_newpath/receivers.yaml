@@ -1,0 +1,142 @@
+SAtoBB:
+  type: Receiver
+BBtoSA:
+  type: Receiver
+SAtoOS:
+  type: Receiver
+OStoSA:
+  type: Receiver
+SAtoRA:
+  type: Receiver
+RAtoSA:
+  type: Receiver
+SAtoCT:
+  type: Receiver
+CTtoSA:
+  type: Receiver
+BBtoLA:
+  type: Receiver
+LAtoBB:
+  type: Receiver
+LAtoLA1:
+  type: Receiver
+LA1toLA:
+  type: Receiver
+RAtoRA1:
+  type: Receiver
+RA1toRA:
+  type: Receiver
+RA1toCS:
+  type: Receiver
+CStoRA1:
+  type: Receiver
+CTtoCT1:
+  type: Receiver
+CT1toCT:
+  type: Receiver
+OStoFast:
+  type: Receiver
+FasttoOS:
+  type: Receiver
+FasttoFast1:
+  type: Receiver
+Fast1toFast:
+  type: Receiver
+Fast1toAV:
+  type: Receiver
+AVtoFast1:
+  type: Receiver
+OStoSlow:
+  type: Receiver
+SlowtoOS:
+  type: Receiver
+SlowtoSlow1:
+  type: Receiver
+Slow1toSlow:
+  type: Receiver
+Slow1toAV:
+  type: Receiver
+AVtoSlow1:
+  type: Receiver
+AVtoHis:
+  type: Receiver
+HistoAV:
+  type: Receiver
+HistoHis1:
+  type: Receiver
+His1toHis:
+  type: Receiver
+His1toHis2:
+  type: Receiver
+His2toHis1:
+  type: Receiver
+His2toLBB:
+  type: Receiver
+LBBtoHis2:
+  type: Receiver
+LBBtoLBB1:
+  type: Receiver
+LBB1toLBB:
+  type: Receiver
+LBB1toLVA:
+  type: Receiver
+LVAtoLBB1:
+  type: Receiver
+His2toRBB:
+  type: Receiver
+RBBtoHis2:
+  type: Receiver
+RBBtoRBB1:
+  type: Receiver
+RBB1toRBB:
+  type: Receiver
+RBB1toRVA:
+  type: Receiver
+RVAtoRBB1:
+  type: Receiver
+LVAtoRVA:
+  type: Receiver
+RVAtoLVA:
+  type: Receiver
+LVAtoLV:
+  type: Receiver
+LVtoLVA:
+  type: Receiver
+LVtoLV1:
+  type: Receiver
+LV1toLV:
+  type: Receiver
+LVAtoLVS:
+  type: Receiver
+
+LVStoLVA:
+  type: Receiver
+
+LVStoLVS1:
+  type: Receiver
+
+LVS1toLVS:
+  type: Receiver
+
+LVS1toCSLV:
+  type: Receiver
+CSLVtoLVS1:
+  type: Receiver
+RVAtoRV:
+  type: Receiver
+RVtoRVA:
+  type: Receiver
+RVtoRV1:
+  type: Receiver
+RV1toRV:
+  type: Receiver
+RVAtoRVS:
+  type: Receiver
+
+RVStoRVA:
+  type: Receiver
+
+RVStoRVS1:
+  type: Receiver
+RVS1toRVS:
+  type: Receiver
